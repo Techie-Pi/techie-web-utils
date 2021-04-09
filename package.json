@@ -2,10 +2,14 @@
   "name": "techiew-web-utils",
   "version": "1.0.0",
   "description": "The utils.js I use in my web apps",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/utils.js"
   },
+  "browserslist": [
+    "> 0.2%"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Techie-Pi/techie-web-utils.git"
@@ -15,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Techie-Pi/techie-web-utils/issues"
   },
-  "homepage": "https://github.com/Techie-Pi/techie-web-utils#readme"
+  "homepage": "https://github.com/Techie-Pi/techie-web-utils#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "parcel": "^2.0.0-beta.2"
+  }
 }

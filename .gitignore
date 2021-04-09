@@ -105,3 +105,6 @@ dist
 
 # Idea and based IDEs
 .idea/
+
+# Parcel
+.parcel-cache/
