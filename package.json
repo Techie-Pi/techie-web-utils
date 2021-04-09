@@ -1,0 +1,19 @@
+{
+  "name": "techiew-web-utils",
+  "version": "1.0.0",
+  "description": "The utils.js I use in my web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techie-Pi/techie-web-utils.git"
+  },
+  "author": "TechiePi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Techie-Pi/techie-web-utils/issues"
+  },
+  "homepage": "https://github.com/Techie-Pi/techie-web-utils#readme"
+}
