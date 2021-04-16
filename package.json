@@ -1,6 +1,6 @@
 {
   "name": "@techiepi/utils",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "The utils.js I use in my web apps",
   "scripts": {
     "test": "jest",
@@ -29,13 +29,13 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
-    "browserify-fs": "^1.0.0",
     "browserify-zlib": "^0.2.0",
     "constants-browserify": "^1.0.0",
     "log4js": "^6.3.0",
     "mustache": "^4.2.0",
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
+    "srepollock-browserify-fs": "^1.0.1",
     "stream-browserify": "^3.0.0"
   }
 }
