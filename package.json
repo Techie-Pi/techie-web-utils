@@ -1,5 +1,5 @@
 {
-  "name": "techie-web-utils",
+  "name": "@techiepi/utils",
   "version": "1.0.0",
   "description": "The utils.js I use in my web apps",
   "private": true,
