@@ -1,5 +1,4 @@
 const Path = require("path");
-const BundleAnalyzerPlugin = require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
 
 module.exports = {
     target: "web",
@@ -8,9 +7,6 @@ module.exports = {
         path: Path.resolve(__dirname, "build"),
         filename: "utils.bundle.js"
     },
-    plugins: [
-        new BundleAnalyzerPlugin()
-    ],
     resolve: {
         fallback: {
             "zlib": require.resolve("browserify-zlib"),
