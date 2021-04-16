@@ -1,0 +1,11 @@
+{
+  "redirectionWarning": {
+    "es": "Vas a ser redirigido en {{ seconds }} segundos",
+    "en": "You'll be redirected in {{ seconds }} segundos"
+  },
+  "testStrings": {
+    "es": "ES",
+    "en": "EN",
+    "render": "{{ echo }} pong"
+  }
+}
