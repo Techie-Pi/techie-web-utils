@@ -108,3 +108,4 @@ dist
 
 # Parcel
 .parcel-cache/
+build
