@@ -14,7 +14,7 @@ module.exports = {
             "stream": require.resolve("stream-browserify"),
             "constants": require.resolve("constants-browserify"),
             "os": require.resolve("os-browserify"),
-            "fs": require.resolve("browserify-fs")
+            "fs": require.resolve("srepollock-browserify-fs")
         },
         alias: {
             "handlebars": "handlebars/dist/handlebars.js"
