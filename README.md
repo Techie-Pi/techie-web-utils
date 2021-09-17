@@ -1,3 +1,7 @@
+# Warning! This package has been deprecated
+> The repo and package will stay up, but its use is discouraged, no security updates nor features will be added.
+> Use at your own risk.
+
 # @techiepi/utils
 
 The utils.js I use in my web apps, which has the following features:
