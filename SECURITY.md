@@ -1,5 +1,11 @@
 # Security Policy
 
+# This package has been deprecated, there are no supported versions
+
+<br/>
+
+> Old policy
+
 ## Supported Versions
 
 The latest version of each major version is supported until a new major is released, this will be notified with a deprecation notice in the latest version of any major one.
